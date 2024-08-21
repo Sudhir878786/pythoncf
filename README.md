@@ -1,5 +1,5 @@
 
-<h1 align="center"> cf</h1>
+<h1 align="center"> pythoncf</h1>
 
 <div align="center">
   <strong>Codeforces API wrapper for python</strong>
@@ -8,14 +8,14 @@
 <br />
 
 <div align="center">
-  <a href="https://cf.readthedocs.io/en/latest/?badge=latest">
-    <img alt="Documentation Status" src="https://readthedocs.org/projects/cf/badge/?version=latest" />
+  <a href="https://pythoncf.readthedocs.io/en/latest/?badge=latest">
+    <img alt="Documentation Status" src="https://readthedocs.org/projects/pythoncf/badge/?version=latest" />
   </a>
-  <a href="https://travis-ci.com/Sudhir878786/cf">
-    <img alt="Build Status" src="https://travis-ci.com/Sudhir878786/cf.svg?branch=master" />
+  <a href="https://travis-ci.com/Sudhir878786/pythoncf">
+    <img alt="Build Status" src="https://travis-ci.com/Sudhir878786/pythoncf.svg?branch=master" />
   </a>
-  <a href="https://pypi.org/project/cf/">
-    <img alt="Supported Python versions" src="https://img.shields.io/pypi/pyversions/cf.svg" />
+  <a href="https://pypi.org/project/pythoncf/">
+    <img alt="Supported Python versions" src="https://img.shields.io/pypi/pyversions/pythoncf.svg" />
   </a>
 </div>
 
@@ -26,33 +26,33 @@
 #### Using `pip`
 
 ```shell
-pip install cf
+pip install pythoncf
 ```
 
 #### From source
 
 ```shell
-git clone https://github.com/Sudhir878786/cf.git
-cd cf
+git clone https://github.com/Sudhir878786/pythoncf.git
+cd pythoncf
 pip install .
 ```
 
 #### For Development
 
 ```shell
-git clone https://github.com/Sudhir878786/cf.git
-cd cf
+git clone https://github.com/Sudhir878786/pythoncf.git
+cd pythoncf
 pip install -e .
 ```
 
 ### Commandline tools
 
-#### `cf-run`
+#### `pythoncf-run`
 
 Run a program against sample testcases.
 
 ```shell
-usage: cf-run [-h] [-t TIMEOUT] [-g] contestId index program
+usage: pythoncf-run [-h] [-t TIMEOUT] [-g] contestId index program
 
 positional arguments:
   contestId             Id of the contest. It is not the round number. It can
@@ -72,7 +72,7 @@ optional arguments:
 
 ### Documentation
 
-Documentation can be found at https://cf.readthedocs.io/en/latest/
+Documentation can be found at https://pythoncf.readthedocs.io/en/latest/
 
 ### License
 

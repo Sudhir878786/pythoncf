@@ -4,11 +4,11 @@ Quickstart
 Installation
 ------------
 
-cf can be installed using ``pip`` as follows:
+pythoncf can be installed using ``pip`` as follows:
 
 .. code-block:: shell
 
-   pip install cf
+   pip install pythoncf
 
 Installation from source can be done from the root of the project with
 the following command.
@@ -17,7 +17,7 @@ the following command.
 
    pip install .
 
-Using cf
+Using pythoncf
 -----------------------
 
 Introduction

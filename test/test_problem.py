@@ -1,4 +1,4 @@
-import cf
+import pythoncf
 import pytest
 
 
@@ -7,7 +7,7 @@ class TestGetInfo(object):
         contest_id = 1
         index = 'A'
 
-        title, time_limit, memory_limit, sample_tests = cf.problem.get_info(contest_id, index)
+        title, time_limit, memory_limit, sample_tests = pythoncf.problem.get_info(contest_id, index)
 
         assert (title == 'A. Theatre Square')
         assert (time_limit == '1 second')

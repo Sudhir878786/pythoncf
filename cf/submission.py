@@ -18,7 +18,7 @@ def get_submission(submission_id):
     source code of the submission
     """
     with requests.Session() as sess:
-        sess.headers.update({'User-Agent': 'cf/0.1.0'})
+        sess.headers.update({'User-Agent': 'pythoncf/0.1.0'})
 
         res = sess.get('https://codeforces.com')
         soup = BeautifulSoup(res.text, 'html.parser')

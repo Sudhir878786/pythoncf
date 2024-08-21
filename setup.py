@@ -4,7 +4,7 @@ with open('README.md') as f:
     long_description = f.read()
 
 setup(
-    name='cf',
+    name='pythoncf',
     version='0.2.7',
     description='Codeforces API wrapper for python',
     long_description=long_description,
@@ -22,10 +22,10 @@ setup(
     packages=find_packages(exclude=['docs']),
     install_requires=['beautifulsoup4', 'colorama', 'requests'],
     extras_requires={'docs': ['sphinx', 'sphinx_rtd_theme']},
-    entry_points={'console_scripts': ['cf-run = codeforces.cf_run:main']},
+    entry_points={'console_scripts': ['pythoncf-run = codeforces.cf_run:main']},
     python_requires='>=3.6,<4',
     project_urls={
-        "Bug Tracker": "https://github.com/Sudhir878786/cf/issues/",
-        "Documentation": "https://cf.readthedocs.io/en/stable/",
-        "Source": "https://github.com/Sudhir878786/cf"
+        "Bug Tracker": "https://github.com/Sudhir878786/pythoncf/issues/",
+        "Documentation": "https://pythoncf.readthedocs.io/en/stable/",
+        "Source": "https://github.com/Sudhir878786/pythoncf"
     })
