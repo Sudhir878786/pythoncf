@@ -15,7 +15,7 @@ setup(
         'Programming Language :: Python :: 3.6', 'Programming Language :: Python :: 3.7'
     ],
     keywords='codeforces',
-    url='https://github.com/Sudhir878786/cf',
+    url='https://github.com/Sudhir878786/pythoncf',
     author='Mukundan',
     author_email='Sudhir878786@gmail.com',
     license='MIT',
