@@ -1,0 +1,2 @@
+[console_scripts]
+pythoncf = cf.__main__:main

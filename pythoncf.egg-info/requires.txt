@@ -1,0 +1,10 @@
+requests
+prettytable
+bs4
+colorama
+numpy
+mdv
+html2text
+gnuplotlib
+termgraph
+yaspin

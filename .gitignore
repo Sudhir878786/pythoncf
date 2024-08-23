@@ -1,8 +1,0 @@
-__pycache__
-.vscode
-dist/
-pythoncf.egg-info
-main.py
-testing.py
-testing
-testing.html
