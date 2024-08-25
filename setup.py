@@ -21,7 +21,7 @@ setup(
     license='MIT',
     author='Sudhir_Sharma',
     author_email='sudhirsharma@iitbhilai.ac.in',
-    description='Codeforces cli for lazy nerds who don\'t want to leave their cozy terminals.',
+    description='`pythoncf` is your command-line companion for all things Codeforces.',
     long_description=long_description,
     long_description_content_type='text/markdown',
     keywords=['Codeforces','cli', 'command line', 'terminal'],
