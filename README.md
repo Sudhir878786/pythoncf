@@ -123,7 +123,7 @@ The following examples illustrate the usage of `pythoncf`:
 - **Get contest submissions:**
 
     ```bash
-    pythoncf -submission 1901
+    pythoncf -conteststatus 1901
     ```
 ![](https://raw.githubusercontent.com/Sudhir878786/pythoncf/master/images/10.gif)
 
