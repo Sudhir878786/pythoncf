@@ -16,7 +16,7 @@ setup(
     install_requires=['requests','prettytable','bs4','colorama','numpy','mdv','html2text','gnuplotlib','termgraph','yaspin'],
     python_requires='>=3.6',
     requires=['requests','prettytable','bs4','colorama','numpy','mdv','html2text','gnuplotlib','termgraph','yaspin'],
-    version='1.1.9',
+    version='1.1.2',
     url='https://github.com/Sudhir878786/pythoncf',
     license='MIT',
     author='Sudhir_Sharma',

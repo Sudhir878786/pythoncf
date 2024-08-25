@@ -1,7 +1,7 @@
 Metadata-Version: 2.1
 Name: pythoncf
-Version: 1.1.9
-Summary: Codeforces cli for lazy nerds who don't want to leave their cozy terminals.
+Version: 1.1.2
+Summary: `pythoncf` is your command-line companion for all things Codeforces.
 Home-page: https://github.com/Sudhir878786/pythoncf
 Author: Sudhir_Sharma
 Author-email: sudhirsharma@iitbhilai.ac.in
