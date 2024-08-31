@@ -58,7 +58,7 @@ The following examples illustrate the usage of `pythoncf`:
     ```bash
     pythoncf -graph ImFire
     ```
-![](https://raw.githubusercontent.com/Sudhir878786/pythoncf/master/images/2.png)
+![](https://raw.githubusercontent.com/Sudhir878786/pythoncf/Sudhir/images/2.png)
 
 - **Get details of a specific contest:**
 
@@ -178,4 +178,4 @@ Sudhir Sharma:
 Contributions are welcome! If you have suggestions or improvements, please submit a pull request or open an issue.
 
 ## 📝 License
-This project is licensed under the **MIT License**. See the [LICENSE](https://github.com/Sudhir878786/pythoncf/LICENSE) file for details.
+This project is licensed under the **MIT License**. See the [LICENSE](https://github.com/Sudhir878786/pythoncf/blob/Sudhir/LICENSE) file for details.
